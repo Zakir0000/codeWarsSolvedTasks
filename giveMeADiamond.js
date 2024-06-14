@@ -29,3 +29,5 @@ function diamond(n) {
 
   return result;
 }
+
+console.log(diamond(11));
