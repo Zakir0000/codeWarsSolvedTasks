@@ -1,11 +1,11 @@
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 
+// import React from 'react';
 import { useState } from 'react';
 import quotes from './assets/quotes.json';
 import { FaTwitter, FaQuoteLeft, FaQuoteRight } from 'react-icons/fa';
 
 import './App.css';
-import React from 'react';
 
 interface Quote {
   quote: string;
